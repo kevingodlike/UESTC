@@ -1,0 +1,1 @@
+VALID版本：卷积使用1步长（stride size），0边距（padding size）的模板
